@@ -3,7 +3,7 @@
     "description": "Translate file po plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "repositories": [
         {
             "type": "cake PHP",
