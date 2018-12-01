@@ -1,0 +1,27 @@
+msgid "Error {0}"
+msgstr "Lỗi {0}"
+
+msgid "Change file {0} success"
+msgstr "Thay đổi {0} thành công"
+
+msgid "Success"
+msgstr "Thành công"
+
+msgid "Go back"
+msgstr "Quay trở lại"
+
+msgid "Update"
+msgstr "Cập nhật"
+
+msgid "Msgid key"
+msgstr "Msgid key"
+
+msgid "File po"
+msgstr "Tệp po"
+
+msgid "Plugin translate"
+msgstr "Plugin hỗ trợ thay đổi tệp .po"
+
+msgid "msgstr"
+msgstr "Danh sách ngôn ngữ trong source"
+

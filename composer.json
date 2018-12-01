@@ -1,0 +1,31 @@
+{
+    "name": "khuong-dv/translate",
+    "description": "Translate file po plugin for CakePHP",
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "version": "1.0.1",
+    "repositories": [
+        {
+            "type": "cake PHP",
+            "url": "https://github.com/leomask101193/translate-file-po"
+        }
+    ],
+    "require": {
+        "cakephp/cakephp": "^3.5",
+        "sepia/po-parser": "^5.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7.14|^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Translate\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Translate\\Test\\": "tests/",
+            "Cake\\Test\\": "vendor/cakephp/cakephp/tests/"
+        }
+    }
+}

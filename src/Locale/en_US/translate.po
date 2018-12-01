@@ -1,0 +1,28 @@
+msgid "Error {0}"
+msgstr "Error {0}"
+
+msgid "translate','Change file {0} success"
+msgstr "translate','Change file {0} success"
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Go back"
+msgstr "Go back"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Msgid key"
+msgstr "Msgid key"
+
+msgid "File po"
+msgstr "File po"
+
+msgid "Plugin translate"
+msgstr "Plugin translate"
+
+msgid "msgstr"
+msgstr "List language in a source"
+
+
